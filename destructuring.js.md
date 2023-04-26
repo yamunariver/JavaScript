@@ -10,7 +10,7 @@ const {name, city} = data;
 console.log(name)
 
 
-## we can change name of the parameter
+## can change the name of the parameter
 
 const {name:fullname, city} = data;
 
